@@ -1,0 +1,2 @@
+İsim Soyisim, Yaş, Boy, Kilo, VKİ, Sınıf
+assa, 14, 143.0, 21.0, 10.27, Zayıf
